@@ -28,7 +28,8 @@
               "src/assets"
             ],
             "styles": [
-              "src/styles.scss"
+              "src/styles.scss",
+              "node_modules/bootstrap/dist/css/bootstrap.min.css"
             ],
             "scripts": []
           },
@@ -123,6 +124,10 @@
           }
         }
       }
-    }},
-  "defaultProject": "jun26"
+    }
+  },
+  "defaultProject": "jun26",
+  "cli": {
+    "analytics": "4e435160-33ad-41e1-a091-7de02b4f63c7"
+  }
 }
