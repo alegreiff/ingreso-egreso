@@ -1,0 +1,11 @@
+{
+  "targets": {
+    "ingreso-egreso-app-biko": {
+      "hosting": {
+        "jun26": [
+          "ingreso-egreso-app-biko"
+        ]
+      }
+    }
+  }
+}
